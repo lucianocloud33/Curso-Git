@@ -4,7 +4,11 @@
 
 # versao 
 
-# atualizado
+# atualizado versão4
+
+# atulizado6
+
+# git comand push
 
 
 
