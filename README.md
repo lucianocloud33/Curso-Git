@@ -12,5 +12,7 @@
 
 # Aconteceu uma alteração seria no sistema......
 
+#git pull...
+
 
 
