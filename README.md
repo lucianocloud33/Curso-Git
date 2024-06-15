@@ -1,5 +1,6 @@
 # Curso-Git
 
 # Salvando file
-git st
+q
+# versao 2
 
